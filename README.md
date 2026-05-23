@@ -15,6 +15,11 @@ I am passionate about building decentralized finance (DeFi) applications on Ethe
 ### 3. RonitStaking
 - Basic staking contract where users can stake ETH and unstake later
 
+
+### 4. SimpleVoting
+- Basic voting system where users can add candidates and vote (one vote per address)
+
+
 ## Technologies
 - Solidity ^0.8.20
 - Remix IDE
