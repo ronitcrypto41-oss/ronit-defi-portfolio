@@ -1,37 +1,44 @@
 # Ronit DeFi Portfolio
 
-Hello! I'm Ronit Vinay Mishra, a self-taught Solidity developer from Mumbai, India.
+Hello! I'm **Ronit Vinay Mishra**, a self-taught Solidity developer from Mumbai, India. Passionate about building decentralized finance (DeFi) applications on Ethereum.
 
-I am passionate about building decentralized finance (DeFi) applications on Ethereum.
+## 🚀 Projects
 
-## My Projects
+### 1. RonitBank - Mini Lending Protocol
+- Features: Deposit, Withdraw, Balance tracking
+- Technologies: Solidity, Payable functions, Require statements
 
-### 1. RonitToken
-- ERC20-like token with mint, burn, and transfer functionality
+### 2. RonitStaking - Staking Contract
+- Features: Stake ETH, Unstake, Track total staked
+- Technologies: Mapping, Events ready, Security checks
 
-### 2. RonitBank
-- Simple banking protocol allowing users to deposit and withdraw ETH safely
+### 3. RonitToken - ERC20 Token
+- Features: Mint, Burn, Transfer, BalanceOf
+- Technologies: Standard ERC20 implementation
 
-### 3. RonitStaking
-- Basic staking contract where users can stake ETH and unstake later
+### 4. SimpleVoting - Decentralized Voting System
+- Features: Add candidates, Vote, Prevent double voting
 
-
-### 4. SimpleVoting
-- Basic voting system where users can add candidates and vote (one vote per address)
-
-
-## Technologies
-- Solidity ^0.8.20
-- Remix IDE
+## 🛠️ Technologies
+- **Solidity** (^0.8.20)
+- **Remix IDE**
+- Ethereum Blockchain
 - Smart Contract Development
 
-## Goals
-- Become a professional DeFi / Smart Contract Developer
-- Learn advanced DeFi protocols and security best practices
+## 📌 Goals
+- Secure smart contract development
+- Build real DeFi protocols
+- Gain Web3 internship / junior developer opportunity
+
+## 📬 Connect With Me
+- LinkedIn: [Ronit Mishra](https://www.linkedin.com/in/ronit-mishra-464837354)
+- Email: ronitmarketing200522@gmail.com
 
 ---
 
-**Connect with me:**
+**I'm actively looking for Web3 / Solidity internships or junior roles.**
+
+Feel free to explore the contracts!
 - GitHub: @ronitcrypto41-oss
 - Email: ronitmarketing200522@gmail.com
 
