@@ -1,45 +1,35 @@
 # Ronit DeFi Portfolio
 
-Hello! I'm **Ronit Vinay Mishra**, a self-taught Solidity developer from Mumbai, India. Passionate about building decentralized finance (DeFi) applications on Ethereum.
+Hello! I'm **Ronit Vinay Mishra**, a self-taught Solidity developer from Mumbai, India. Passionate about building secure and efficient decentralized finance (DeFi) applications on Ethereum.
 
-## 🚀 Projects
+## Projects
 
-### 1. RonitBank - Mini Lending Protocol
-- Features: Deposit, Withdraw, Balance tracking
-- Technologies: Solidity, Payable functions, Require statements
+### 1. RonitBank - Decentralized Banking Protocol
+- Users can **deposit**, **withdraw**, and **transfer** ETH
+- Owner-controlled **emergency withdraw**
+- Real-time balance tracking and contract total balance
+- Secure checks using `require()` to prevent common errors
 
-### 2. RonitStaking - Staking Contract
-- Features: Stake ETH, Unstake, Track total staked
-- Technologies: Mapping, Events ready, Security checks
+**Tech:** Solidity ^0.8.20, Ethereum
 
-### 3. RonitToken - ERC20 Token
-- Features: Mint, Burn, Transfer, BalanceOf
-- Technologies: Standard ERC20 implementation
-
-### 4. SimpleVoting - Decentralized Voting System
-- Features: Add candidates, Vote, Prevent double voting
-
-## 🛠️ Technologies
-- **Solidity** (^0.8.20)
-- **Remix IDE**
-- Ethereum Blockchain
-- Smart Contract Development
-
-## 📌 Goals
-- Secure smart contract development
-- Build real DeFi protocols
-- Gain Web3 internship / junior developer opportunity
-
-## 📬 Connect With Me
-- LinkedIn: [Ronit Mishra](https://www.linkedin.com/in/ronit-mishra-464837354)
-- Email: ronitmarketing200522@gmail.com
+**View Contract:** [RonitBank.sol](https://github.com/ronitcrypto41-oss/ronit-defi-portfolio/blob/main/RonitBank.sol)
 
 ---
 
-**I'm actively looking for Web3 / Solidity internships or junior roles.**
+### Other Projects
+- RonitToken (ERC20 Token)
+- RonitStaking (Staking with rewards tracking)
+- RonitVesting (Token vesting system)
+- SimpleVoting (Decentralized voting)
 
-Feel free to explore the contracts!
-- GitHub: @ronitcrypto41-oss
-- Email: ronitmarketing200522@gmail.com
+## Goals
+- Master secure smart contract development
+- Build production-ready DeFi protocols
+- Contribute to open-source Web3 projects
+- Seeking **Web3 / Solidity Developer Internship or Junior Role**
 
+---
+
+**GitHub:** https://github.com/ronitcrypto41-oss/ronit-defi-portfolio  
+**LinkedIn:** https://www.linkedin.com/in/ronit-mishra-464837354
 I'm actively looking for Web3 / Solidity internship or junior developer opportunities.
