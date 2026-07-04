@@ -1,16 +1,26 @@
 # 🏦 Ronit's DeFi Smart Contract Portfolio
-
-> Self-taught Solidity & DeFi Developer | 8+ months building on Ethereum
-> Passionate about DeFi protocols, stablecoins, and tokenized assets (RWAs)
+> Solidity Developer | DeFi Smart Contracts | Web3 Builder
+> Cyfrin Updraft Certified | SpeedRunEthereum Challenge 0 Complete
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Building DeFi smart contracts on Ethereum
-- 🌱 Learning: Solidity, OpenZeppelin, Hardhat, Security Auditing
-- 💬 Ask me about: DeFi protocols, smart contract security, tokenomics
-- 📫 LinkedIn: [www.linkedin.com/in/ronit-mishra-464837354]
-- 🎯 Looking for: Solidity Developer Internship / Junior DeFi Developer role
+- 🔭 Building full-stack DeFi dapps on Ethereum
+- ✅ Cyfrin Updraft Solidity Certified — June 2026
+- ✅ SpeedRunEthereum Challenge 0 Complete
+- ✅ Chainlink Oracle Integration
+- ✅ 16 Automated Hardhat Tests Passing
+- 📫 LinkedIn: linkedin.com/in/ronit-mishra-464837354
+- 🌐 Live Dapp: https://challenge-tokenization-nextjs-rosy.vercel.app
+- 🎯 Open to: Remote Solidity internships and junior DeFi developer roles
+
+---
+
+## 🌐 Live Dapps
+
+| Project | Live URL | Contract |
+|---------|----------|---------|
+| NFT Tokenization Dapp | [Open Dapp](https://challenge-tokenization-nextjs-rosy.vercel.app) | [Etherscan](https://sepolia.etherscan.io/address/0x22963d5b2377ba1a3f8db65e45943cb96962d90e) |
 
 ---
 
@@ -18,92 +28,89 @@
 
 | Contract | Description | Etherscan |
 |----------|-------------|-----------|
-| RonitBank | Decentralized banking protocol | [0x2ea242c212f9490e56e52a6f9023104eeb42d727) |
-| RonitStaking | ETH staking with rewards | Coming soon |
-| RonitToken | ERC20 token with mint/burn | Coming soon |
-| RonitVesting | Token vesting system | Coming soon |
+| RonitBank | Decentralised banking protocol | [0x2ea242...](https://sepolia.etherscan.io/address/0x2ea242c212f9490e56e52a6f9023104eeb42d727) |
+| NFT Collectible | ERC-721 NFT with frontend | [0x22963d...](https://sepolia.etherscan.io/address/0x22963d5b2377ba1a3f8db65e45943cb96962d90e) |
+| PriceConsumer | Chainlink Oracle ETH/USD | [0xa9D1da...](https://sepolia.etherscan.io/address/0xa9D1da22F73c64b125F3Cb8a3f13f4ECf30E964E) |
 
 ---
 
 ## 📂 Smart Contracts
 
-### 🏦 RonitBank — Decentralized Banking Protocol
-**File:** `RonitBank.sol`
+### 🏦 RonitBank — Decentralised Banking Protocol
+**Security:** OpenZeppelin Ownable + ReentrancyGuard
+**Tests:** 7 automated Hardhat tests passing
 **Features:**
 - Deposit ETH securely
 - Withdraw with reentrancy protection
 - Transfer between users
 - Owner emergency controls
 - Full NatSpec documentation
+- Events: Deposit, Withdraw, Transfer
 
-**Security:** OpenZeppelin Ownable + ReentrancyGuard
-**Events:** Deposit, Withdraw, Transfer
+---
+
+### 🖼️ NFT Tokenization Dapp — SpeedRunEthereum Challenge 0
+**Stack:** Scaffold-ETH 2, Hardhat, Next.js, Alchemy, Vercel
+**Features:**
+- ERC-721 NFT contract deployed on Sepolia
+- Frontend live on Vercel — anyone can connect wallet and mint
+- Contract verified on Etherscan and Blockscout
+
+---
+
+### ⛓️ PriceConsumer — Chainlink Oracle Integration
+**Features:**
+- Reads live ETH/USD price on-chain
+- Uses Chainlink AggregatorV3Interface
+- Deployed and verified on Sepolia
 
 ---
 
 ### 🪙 RonitToken — ERC20 Token
-**File:** `RonitToken.sol`
-**Features:**
-- Mint new tokens
-- Transfer between wallets
-- Balance tracking
-- Burn mechanism
-
----
+- Mint, transfer, burn functionality
 
 ### 💎 RonitStaking — ETH Staking Protocol
-**File:** `RonitStaking.sol`
-**Features:**
-- Stake ETH and earn rewards
-- Unstake anytime
-- Track individual and total stakes
-
----
+- Stake ETH, unstake anytime, track TVL
 
 ### ⏰ RonitVesting — Token Vesting System
-**File:** `RonitVesting.sol`
-**Features:**
-- Vest tokens to beneficiaries
-- Time-based release mechanism
-- View vested and released amounts
+- Time-based token release with cliff periods
 
----
-
-### 🗳️ SimpleVoting — Decentralized Voting
-**File:** `SimpleVoting.sol`
-**Features:**
-- Create proposals
-- Vote on-chain
-- Transparent results
+### 🗳️ SimpleVoting — Decentralised Governance
+- On-chain proposals and voting
 
 ---
 
 ## 🛠️ Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-5.0-green)
+![Hardhat](https://img.shields.io/badge/Hardhat-2.22.0-yellow)
+![Chainlink](https://img.shields.io/badge/Chainlink-Oracle-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia-purple)
-![Remix](https://img.shields.io/badge/IDE-Remix-orange)
 
 ---
 
 ## 📈 Skills
 - ✅ Solidity ^0.8.20
-- ✅ OpenZeppelin Contracts
-- ✅ ERC20 Token Standard
-- ✅ DeFi Protocols (Lending, Staking, Vesting)
-- ✅ Remix IDE
-- ✅ Sepolia Testnet Deployment
-- ✅ Smart Contract Security basics
-- 🔄 Hardhat Testing (learning)
-- 🔄 Foundry (learning)
+- ✅ OpenZeppelin Contracts v5
+- ✅ ERC20 and ERC721 Token Standards
+- ✅ DeFi Protocols (Lending, Staking, Vesting, NFTs)
+- ✅ Hardhat Testing (16 tests passing)
+- ✅ Chainlink Oracle Integration
+- ✅ Scaffold-ETH 2 + Next.js Frontend
+- ✅ Vercel Deployment
+- ✅ Git/GitHub
+- 🔄 Ethernaut Security Challenges (in progress)
+- 🔄 Smart Contract Auditing (learning)
 
 ---
 
 ## 🎯 Currently Building
-- Hardhat test suite for RonitBank
-- RonitBank V2 with advanced features
-- Learning smart contract security (Ethernaut)
+- Ethernaut security challenge levels
+- SpeedRunEthereum Challenge 1 (Staking App)
+- RonitBank frontend with Next.js
 
 ---
 
-*"Building the future of decentralized finance, one contract at a time."*
+*"DeFi isn't just code — it's trust, encoded into logic that millions of dollars rely on."*
